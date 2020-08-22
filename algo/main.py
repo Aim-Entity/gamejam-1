@@ -1,4 +1,4 @@
-from practice import move
+from algo.movement import move
 
 
 def main():
